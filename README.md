@@ -32,3 +32,4 @@ Demo:
 ## Schematic and Diagrams <a name="schematic">
 ## Source Code <a name="source">
 ## Future Improvements <a name="future">
+  For future improvement of this project we would like to pursue a smaller model which can be placed on a table instead of the floor with sensors that are more accurate and update fasters in order to avoid stepping on the robot by mistake. Another improvement could be to house the wiring for the robot inside a nicer chassis and maybe use a more sophisticated turn-off-alarm system to ensure that the user is fully awake when turning the alarm off. 
