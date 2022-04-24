@@ -4,9 +4,9 @@ Repo for our final ECE4180 Project
 Team Members: Jae Il Kim, Hyeran Park, John Choi, Andrew Gonzalez <br>
 **Georgia Institute of Technology**
 
-Watch our presentation and demo:
-Presentation: 
-Demo:
+Watch our presentation and demo: <br>
+Presentation: <br>
+Demo: <br>
 
 (Picture of the device)
 
