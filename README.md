@@ -1,8 +1,8 @@
 # ECE4180-FinalProject - Smart Alarm Clock System
 Repo for our final ECE4180 Project
 
-Team Members: Jae Il Kim, Hyeran Park, John Choi, Andrew Gonzalez
-Georgia Institute of Technology
+Team Members: Jae Il Kim, Hyeran Park, John Choi, Andrew Gonzalez <br>
+**Georgia Institute of Technology**
 
 Watch our presentation and demo:
 Presentation: 
