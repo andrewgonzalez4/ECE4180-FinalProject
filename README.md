@@ -762,3 +762,5 @@ These are pictures of our smart alarm clock system device from different angles:
 
 ## Future Improvements <a name="future">
   For future improvement of this project we would like to pursue a smaller model which can be placed on a table instead of the floor with sensors that are more accurate and update fasters in order to avoid stepping on the robot by mistake. Another improvement could be to house the wiring for the robot inside a nicer chassis and maybe use a more sophisticated turn-off-alarm system to ensure that the user is fully awake when turning the alarm off. 
+  
+  Also, one of the things that the team noticed when doing testing is that the alarm sound is too low for effective waking up. In order to fix this, the team has planned to integrate an amplifier for our speaker in order to maximize the sound output of our device. 
