@@ -52,7 +52,7 @@ These are pictures of our smart alarm clock system device from different angles:
   <img src="https://user-images.githubusercontent.com/40806367/166444569-9c0491dc-1de3-4b54-adcd-34d4604fadbf.png" width=50% height=50%>
 
 ## Source Code <a name="source">
-  main.ccp<br>
+  main.cpp<br>
   ```
   #include "mbed.h"
   #include "timeDisplay.h"
