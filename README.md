@@ -40,6 +40,7 @@ These are pictures of our smart alarm clock system device from different angles:
   - 1 Speaker (https://www.sparkfun.com/products/11089)
   - Resistors: 330ohm, https://www.sparkfun.com/products/14490
   - Jumper Wires(M/M and M/F): https://www.sparkfun.com/products/124, https://www.sparkfun.com/products/12794
+  - Transistor: 2N3904, https://www.sparkfun.com/products/521
   
   Other Parts:
   - 1 Robot Chassis
