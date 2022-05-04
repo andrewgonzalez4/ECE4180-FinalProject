@@ -1,4 +1,4 @@
-# Smart Alarm Clock System
+# ECE4180-FinalProject - Smart Alarm Clock System
 Repo for our final ECE4180 Project
 
 Team Members: Jae Il Kim, Hyeran Park, John Choi, Andrew Gonzalez <br>
@@ -38,10 +38,8 @@ These are pictures of our smart alarm clock system device from different angles:
   - 2 Ultrasonic sensors HC-SR04 (https://os.mbed.com/components/HC-SR04/)
   - 7 Pushbuttons (https://www.sparkfun.com/products/97)
   - 1 Speaker (https://www.sparkfun.com/products/11089)
-  - Resistors: 330ohm, (https://www.sparkfun.com/products/14490)
-  - Jumper Wires(M/M and M/F): (https://www.sparkfun.com/products/124, https://www.sparkfun.com/products/12794)
-  - Transistor: 2N3904, (https://www.sparkfun.com/products/521)
-  - 2 Rubber Tire Wheels, (https://www.sparkfun.com/products/13259)
+  - Resistors: 330ohm, https://www.sparkfun.com/products/14490
+  - Jumper Wires(M/M and M/F): https://www.sparkfun.com/products/124, https://www.sparkfun.com/products/12794
   
   Other Parts:
   - 1 Robot Chassis
@@ -52,9 +50,18 @@ These are pictures of our smart alarm clock system device from different angles:
 ## Schematic and Diagrams <a name="schematic">
   Here is the block diagram of the device:<br>
   <img src="https://user-images.githubusercontent.com/40806367/166444569-9c0491dc-1de3-4b54-adcd-34d4604fadbf.png" width=50% height=50%>
+  <br>
+  Here are the pin tables for the device:<br>
+  <img src="https://user-images.githubusercontent.com/40806367/166564344-d0019e8b-f5c8-4f76-9598-5b95329a57bd.png" width=50% height=50%>
+  <img src="https://user-images.githubusercontent.com/40806367/166564789-1016c761-ab1e-4de1-8f6c-88feb8fb4d87.png" width=75% height=75%>
+  <br>
+  Here is the schematic of the device:<br>
+  <img src="https://user-images.githubusercontent.com/40806367/166815421-fa501260-c016-4e96-9b8f-c316dc0e6831.png" width=50% height=50%>
+
+
 
 ## Source Code <a name="source">
-  main.cpp<br>
+  main.ccp<br>
   ```
   #include "mbed.h"
   #include "timeDisplay.h"
